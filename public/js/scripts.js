@@ -1,9 +1,9 @@
 const cardList = [
     {
-        title: 'Kitten 2', image: 'images/kitten-2.jpg', link: 'About Kitten 2', description: 'Kitten 2 description'
+        title: 'Kitten 2', image: 'images/kitten-2.jpg', link: 'About Kitten 2', description: 'Cat 2 here'
     },
     {
-        title: 'Kitten 3', image: 'images/kitten-3.jpg', link: 'About Kitten 3', description: 'Kitten 3 description'
+        title: 'Kitten 3', image: 'images/kitten-3.jpg', link: 'About Kitten 3', description: 'This is cat 3'
     }
 ];
 
