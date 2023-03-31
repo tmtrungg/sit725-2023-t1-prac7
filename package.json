@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/tmtrungg/sit725-2023-t1-prac3.git"
   },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
