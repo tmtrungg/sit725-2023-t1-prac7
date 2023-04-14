@@ -21,10 +21,10 @@ const addCards = (items) => {
 
 const submitForm = () => {
     let formData = {};
-    formData.first_name = $('#first_name').val();
-    formData.last_name = $('#last_name').val();
-    formData.email = $('#email').val();
-    formData.password = $('#password').val();
+    formData.name = $('#name').val();
+    formData.image = $('#image').val();
+    formData.link = $('#link').val();
+    formData.description = $('#description').val();
 
     console.log('form data: ', formData);
 }
